@@ -1,0 +1,6 @@
+yc_iam_token = "t1.example.tokenstring123456789abcdef"
+yc_cloud_id = "b1g12345example6789cloudid"
+yc_folder_id = "f2e98765example4321folderid"
+db_name = "hexlet"
+db_user = "wiki_admin"
+db_password = "P@ssw0rd_Wiki_2024_Secure!"
